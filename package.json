@@ -1,0 +1,10 @@
+{
+  "name": "scanlation-overlays",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
